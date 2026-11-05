@@ -1,0 +1,156 @@
+[
+  {
+    "id": "moa",
+    "nameBn": "কৃষি মন্ত্রণালয়",
+    "nameEn": "Ministry of Agriculture",
+    "descriptionBn": "দেশের কৃষি নীতি, পরিকল্পনা ও কৃষি সংক্রান্ত দপ্তরগুলোর তত্ত্বাবধানকারী মন্ত্রণালয়।",
+    "url": "https://moa.gov.bd/",
+    "category": "ministry",
+    "verificationStatus": "verified",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "ওয়েবসাইট খুলে প্রতিষ্ঠানের নাম মিলিয়ে দেখা হয়েছে।"
+  },
+  {
+    "id": "dae",
+    "nameBn": "কৃষি সম্প্রসারণ অধিদপ্তর (ডিএই)",
+    "nameEn": "Department of Agricultural Extension (DAE)",
+    "descriptionBn": "মাঠপর্যায়ে কৃষকদের ফসল উৎপাদন বিষয়ক পরামর্শ ও সম্প্রসারণ সেবা দেয়। উপজেলা কৃষি অফিস ও উপসহকারী কৃষি কর্মকর্তারা এই দপ্তরের অধীন।",
+    "url": "https://dae.gov.bd/",
+    "category": "extension",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "সার্ভার সাড়া দিয়েছে, তবে পাতার বিষয়বস্তু স্বয়ংক্রিয়ভাবে পড়া যায়নি।"
+  },
+  {
+    "id": "brri",
+    "nameBn": "বাংলাদেশ ধান গবেষণা ইনস্টিটিউট (ব্রি)",
+    "nameEn": "Bangladesh Rice Research Institute (BRRI)",
+    "descriptionBn": "ধানের জাত উদ্ভাবন, ধান চাষ প্রযুক্তি ও ধানের রোগ-পোকা ব্যবস্থাপনা নিয়ে গবেষণা করে।",
+    "url": "https://brri.gov.bd/",
+    "category": "research",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "অনুসন্ধান ফলাফলে এই ডোমেইনে ব্রি-র পাতা পাওয়া গেছে।"
+  },
+  {
+    "id": "brri-rkb",
+    "nameBn": "ব্রি রাইস নলেজ ব্যাংক",
+    "nameEn": "BRRI Rice Knowledge Bank",
+    "descriptionBn": "বাংলাদেশ ধান গবেষণা ইনস্টিটিউটের ধান চাষ, রোগ ও পোকামাকড় বিষয়ক ফ্যাক্টশিট ও প্রশিক্ষণ উপকরণের সংগ্রহ।",
+    "url": "https://knowledgebank-brri.org/",
+    "category": "research",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-30",
+    "verificationNoteBn": "২০২৬-১০-৩০ তারিখে লিংকটি খুলে রোগ ও পোকামাকড় বিভাগের পাতা দেখা হয়েছে।"
+  },
+  {
+    "id": "bari",
+    "nameBn": "বাংলাদেশ কৃষি গবেষণা ইনস্টিটিউট (বারি)",
+    "nameEn": "Bangladesh Agricultural Research Institute (BARI)",
+    "descriptionBn": "ধান ছাড়া অন্যান্য ফসল—সবজি, ফল, ডাল, তেলবীজ, মসলা, গম ও ভুট্টা ইত্যাদির জাত ও প্রযুক্তি নিয়ে গবেষণা করে।",
+    "url": "https://bari.gov.bd/",
+    "category": "research",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "সার্ভার সাড়া দিয়েছে, তবে পাতার বিষয়বস্তু স্বয়ংক্রিয়ভাবে পড়া যায়নি।"
+  },
+  {
+    "id": "barc",
+    "nameBn": "বাংলাদেশ কৃষি গবেষণা কাউন্সিল (বিএআরসি)",
+    "nameEn": "Bangladesh Agricultural Research Council (BARC)",
+    "descriptionBn": "জাতীয় কৃষি গবেষণা ব্যবস্থার সমন্বয়কারী প্রতিষ্ঠান; সার সুপারিশ নির্দেশিকা প্রকাশের জন্য পরিচিত।",
+    "url": "https://barc.gov.bd/",
+    "category": "research",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "সার্ভার সাড়া দিয়েছে, তবে পাতার বিষয়বস্তু স্বয়ংক্রিয়ভাবে পড়া যায়নি।"
+  },
+  {
+    "id": "bina",
+    "nameBn": "বাংলাদেশ পরমাণু কৃষি গবেষণা ইনস্টিটিউট (বিনা)",
+    "nameEn": "Bangladesh Institute of Nuclear Agriculture (BINA)",
+    "descriptionBn": "পরমাণু কৌশল ও অন্যান্য পদ্ধতিতে ফসলের নতুন জাত ও প্রযুক্তি উদ্ভাবন করে।",
+    "url": "https://bina.gov.bd/",
+    "category": "research",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "সার্ভার সাড়া দিয়েছে, তবে পাতার বিষয়বস্তু স্বয়ংক্রিয়ভাবে পড়া যায়নি।"
+  },
+  {
+    "id": "ais",
+    "nameBn": "কৃষি তথ্য সার্ভিস (এআইএস)",
+    "nameEn": "Agriculture Information Service (AIS)",
+    "descriptionBn": "কৃষি বিষয়ক তথ্য, প্রকাশনা ও গণমাধ্যম কার্যক্রম পরিচালনা করে।",
+    "url": "https://ais.gov.bd/",
+    "category": "extension",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "সার্ভার সাড়া দিয়েছে, তবে পাতার বিষয়বস্তু স্বয়ংক্রিয়ভাবে পড়া যায়নি।"
+  },
+  {
+    "id": "dls",
+    "nameBn": "প্রাণিসম্পদ অধিদপ্তর",
+    "nameEn": "Department of Livestock Services (DLS)",
+    "descriptionBn": "গবাদিপশু ও হাঁস-মুরগির চিকিৎসা, টিকা ও খামার ব্যবস্থাপনা সেবা দেয়। উপজেলা প্রাণিসম্পদ অফিস এর মাঠপর্যায়ের দপ্তর।",
+    "url": "https://dls.gov.bd/",
+    "category": "livestock",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "সার্ভার সাড়া দিয়েছে, তবে পাতার বিষয়বস্তু স্বয়ংক্রিয়ভাবে পড়া যায়নি।"
+  },
+  {
+    "id": "dof",
+    "nameBn": "মৎস্য অধিদপ্তর",
+    "nameEn": "Department of Fisheries (DoF)",
+    "descriptionBn": "মাছ চাষ, পোনা, মৎস্য সম্পদ সংরক্ষণ ও চাষি প্রশিক্ষণ বিষয়ক সেবা দেয়। উপজেলা মৎস্য অফিস এর মাঠপর্যায়ের দপ্তর।",
+    "url": "https://fisheries.gov.bd/",
+    "category": "fisheries",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "সার্ভার সাড়া দিয়েছে, তবে পাতার বিষয়বস্তু স্বয়ংক্রিয়ভাবে পড়া যায়নি।"
+  },
+  {
+    "id": "dam",
+    "nameBn": "কৃষি বিপণন অধিদপ্তর",
+    "nameEn": "Department of Agricultural Marketing (DAM)",
+    "descriptionBn": "কৃষিপণ্যের বাজার তথ্য সংগ্রহ ও বিপণন উন্নয়নে কাজ করে। সরকারি বাজারদর জানতে এই দপ্তরের প্রকাশনা দেখুন।",
+    "url": "https://dam.gov.bd/",
+    "category": "market",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "সার্ভার সাড়া দিয়েছে, তবে পাতার বিষয়বস্তু স্বয়ংক্রিয়ভাবে পড়া যায়নি।"
+  },
+  {
+    "id": "bmd",
+    "nameBn": "বাংলাদেশ আবহাওয়া অধিদপ্তর",
+    "nameEn": "Bangladesh Meteorological Department (BMD)",
+    "descriptionBn": "আবহাওয়ার পূর্বাভাস, সতর্কবার্তা ও ঘূর্ণিঝড় সংকেত প্রকাশ করে। দুর্যোগের সময় এখানকার সরকারি সতর্কবার্তাই অনুসরণ করুন।",
+    "url": "https://bmd.gov.bd/",
+    "category": "weather",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "সার্ভার সাড়া দিয়ে অন্য সাব-ডোমেইনে পাঠিয়েছে; পাতার বিষয়বস্তু পড়া হয়নি।"
+  },
+  {
+    "id": "bau",
+    "nameBn": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়",
+    "nameEn": "Bangladesh Agricultural University (BAU), Mymensingh",
+    "descriptionBn": "ময়মনসিংহে অবস্থিত সরকারি কৃষি বিশ্ববিদ্যালয়; কৃষি শিক্ষা, গবেষণা ও সম্প্রসারণে কাজ করে।",
+    "url": "https://bau.edu.bd/",
+    "category": "university",
+    "verificationStatus": "verified",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "ওয়েবসাইট খুলে প্রতিষ্ঠানের নাম মিলিয়ে দেখা হয়েছে।"
+  },
+  {
+    "id": "sau",
+    "nameBn": "শেরেবাংলা কৃষি বিশ্ববিদ্যালয়",
+    "nameEn": "Sher-e-Bangla Agricultural University (SAU), Dhaka",
+    "descriptionBn": "ঢাকায় অবস্থিত সরকারি কৃষি বিশ্ববিদ্যালয়।",
+    "url": "https://sau.edu.bd/",
+    "category": "university",
+    "verificationStatus": "link-checked",
+    "lastVerified": "2026-10-29",
+    "verificationNoteBn": "অনুসন্ধান ফলাফলে এই ডোমেইনে বিশ্ববিদ্যালয়ের পাতা পাওয়া গেছে।"
+  }
+]

@@ -1,0 +1,770 @@
+[
+ {
+  "id": "dhaka",
+  "nameBn": "ঢাকা",
+  "nameEn": "Dhaka",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 23.81,
+  "lon": 90.41,
+  "hazards": []
+ },
+ {
+  "id": "gazipur",
+  "nameBn": "গাজীপুর",
+  "nameEn": "Gazipur",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 24.0,
+  "lon": 90.42,
+  "hazards": []
+ },
+ {
+  "id": "narayanganj",
+  "nameBn": "নারায়ণগঞ্জ",
+  "nameEn": "Narayanganj",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 23.62,
+  "lon": 90.5,
+  "hazards": [
+   "flood"
+  ]
+ },
+ {
+  "id": "narsingdi",
+  "nameBn": "নরসিংদী",
+  "nameEn": "Narsingdi",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 23.92,
+  "lon": 90.72,
+  "hazards": []
+ },
+ {
+  "id": "manikganj",
+  "nameBn": "মানিকগঞ্জ",
+  "nameEn": "Manikganj",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 23.86,
+  "lon": 90.0,
+  "hazards": [
+   "flood",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "munshiganj",
+  "nameBn": "মুন্সীগঞ্জ",
+  "nameEn": "Munshiganj",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 23.54,
+  "lon": 90.53,
+  "hazards": [
+   "flood"
+  ]
+ },
+ {
+  "id": "tangail",
+  "nameBn": "টাঙ্গাইল",
+  "nameEn": "Tangail",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 24.25,
+  "lon": 89.92,
+  "hazards": [
+   "flood"
+  ]
+ },
+ {
+  "id": "kishoreganj",
+  "nameBn": "কিশোরগঞ্জ",
+  "nameEn": "Kishoreganj",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 24.44,
+  "lon": 90.78,
+  "hazards": [
+   "flash-flood"
+  ]
+ },
+ {
+  "id": "faridpur",
+  "nameBn": "ফরিদপুর",
+  "nameEn": "Faridpur",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 23.61,
+  "lon": 89.84,
+  "hazards": [
+   "flood"
+  ]
+ },
+ {
+  "id": "rajbari",
+  "nameBn": "রাজবাড়ী",
+  "nameEn": "Rajbari",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 23.76,
+  "lon": 89.64,
+  "hazards": [
+   "flood",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "gopalganj",
+  "nameBn": "গোপালগঞ্জ",
+  "nameEn": "Gopalganj",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 23.01,
+  "lon": 89.83,
+  "hazards": [
+   "flood"
+  ]
+ },
+ {
+  "id": "madaripur",
+  "nameBn": "মাদারীপুর",
+  "nameEn": "Madaripur",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 23.17,
+  "lon": 90.19,
+  "hazards": [
+   "flood",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "shariatpur",
+  "nameBn": "শরীয়তপুর",
+  "nameEn": "Shariatpur",
+  "divisionBn": "ঢাকা",
+  "divisionEn": "Dhaka",
+  "lat": 23.24,
+  "lon": 90.43,
+  "hazards": [
+   "flood",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "chattogram",
+  "nameBn": "চট্টগ্রাম",
+  "nameEn": "Chattogram",
+  "divisionBn": "চট্টগ্রাম",
+  "divisionEn": "Chattogram",
+  "lat": 22.36,
+  "lon": 91.78,
+  "hazards": [
+   "cyclone",
+   "salinity"
+  ]
+ },
+ {
+  "id": "coxsbazar",
+  "nameBn": "কক্সবাজার",
+  "nameEn": "Cox's Bazar",
+  "divisionBn": "চট্টগ্রাম",
+  "divisionEn": "Chattogram",
+  "lat": 21.43,
+  "lon": 92.01,
+  "hazards": [
+   "cyclone",
+   "salinity"
+  ]
+ },
+ {
+  "id": "cumilla",
+  "nameBn": "কুমিল্লা",
+  "nameEn": "Cumilla",
+  "divisionBn": "চট্টগ্রাম",
+  "divisionEn": "Chattogram",
+  "lat": 23.46,
+  "lon": 91.18,
+  "hazards": []
+ },
+ {
+  "id": "feni",
+  "nameBn": "ফেনী",
+  "nameEn": "Feni",
+  "divisionBn": "চট্টগ্রাম",
+  "divisionEn": "Chattogram",
+  "lat": 23.02,
+  "lon": 91.4,
+  "hazards": [
+   "flash-flood",
+   "cyclone"
+  ]
+ },
+ {
+  "id": "noakhali",
+  "nameBn": "নোয়াখালী",
+  "nameEn": "Noakhali",
+  "divisionBn": "চট্টগ্রাম",
+  "divisionEn": "Chattogram",
+  "lat": 22.87,
+  "lon": 91.1,
+  "hazards": [
+   "cyclone",
+   "salinity"
+  ]
+ },
+ {
+  "id": "lakshmipur",
+  "nameBn": "লক্ষ্মীপুর",
+  "nameEn": "Lakshmipur",
+  "divisionBn": "চট্টগ্রাম",
+  "divisionEn": "Chattogram",
+  "lat": 22.94,
+  "lon": 90.83,
+  "hazards": [
+   "cyclone",
+   "salinity"
+  ]
+ },
+ {
+  "id": "chandpur",
+  "nameBn": "চাঁদপুর",
+  "nameEn": "Chandpur",
+  "divisionBn": "চট্টগ্রাম",
+  "divisionEn": "Chattogram",
+  "lat": 23.23,
+  "lon": 90.67,
+  "hazards": [
+   "flood",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "brahmanbaria",
+  "nameBn": "ব্রাহ্মণবাড়িয়া",
+  "nameEn": "Brahmanbaria",
+  "divisionBn": "চট্টগ্রাম",
+  "divisionEn": "Chattogram",
+  "lat": 23.96,
+  "lon": 91.11,
+  "hazards": []
+ },
+ {
+  "id": "rangamati",
+  "nameBn": "রাঙ্গামাটি",
+  "nameEn": "Rangamati",
+  "divisionBn": "চট্টগ্রাম",
+  "divisionEn": "Chattogram",
+  "lat": 22.65,
+  "lon": 92.17,
+  "hazards": []
+ },
+ {
+  "id": "khagrachhari",
+  "nameBn": "খাগড়াছড়ি",
+  "nameEn": "Khagrachhari",
+  "divisionBn": "চট্টগ্রাম",
+  "divisionEn": "Chattogram",
+  "lat": 23.12,
+  "lon": 91.98,
+  "hazards": []
+ },
+ {
+  "id": "bandarban",
+  "nameBn": "বান্দরবান",
+  "nameEn": "Bandarban",
+  "divisionBn": "চট্টগ্রাম",
+  "divisionEn": "Chattogram",
+  "lat": 22.2,
+  "lon": 92.22,
+  "hazards": []
+ },
+ {
+  "id": "rajshahi",
+  "nameBn": "রাজশাহী",
+  "nameEn": "Rajshahi",
+  "divisionBn": "রাজশাহী",
+  "divisionEn": "Rajshahi",
+  "lat": 24.37,
+  "lon": 88.6,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "chapainawabganj",
+  "nameBn": "চাঁপাইনবাবগঞ্জ",
+  "nameEn": "Chapainawabganj",
+  "divisionBn": "রাজশাহী",
+  "divisionEn": "Rajshahi",
+  "lat": 24.6,
+  "lon": 88.27,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "naogaon",
+  "nameBn": "নওগাঁ",
+  "nameEn": "Naogaon",
+  "divisionBn": "রাজশাহী",
+  "divisionEn": "Rajshahi",
+  "lat": 24.8,
+  "lon": 88.95,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "natore",
+  "nameBn": "নাটোর",
+  "nameEn": "Natore",
+  "divisionBn": "রাজশাহী",
+  "divisionEn": "Rajshahi",
+  "lat": 24.42,
+  "lon": 89.0,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "bogura",
+  "nameBn": "বগুড়া",
+  "nameEn": "Bogura",
+  "divisionBn": "রাজশাহী",
+  "divisionEn": "Rajshahi",
+  "lat": 24.85,
+  "lon": 89.37,
+  "hazards": [
+   "flood",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "joypurhat",
+  "nameBn": "জয়পুরহাট",
+  "nameEn": "Joypurhat",
+  "divisionBn": "রাজশাহী",
+  "divisionEn": "Rajshahi",
+  "lat": 25.1,
+  "lon": 89.02,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "pabna",
+  "nameBn": "পাবনা",
+  "nameEn": "Pabna",
+  "divisionBn": "রাজশাহী",
+  "divisionEn": "Rajshahi",
+  "lat": 24.0,
+  "lon": 89.24,
+  "hazards": [
+   "flood"
+  ]
+ },
+ {
+  "id": "sirajganj",
+  "nameBn": "সিরাজগঞ্জ",
+  "nameEn": "Sirajganj",
+  "divisionBn": "রাজশাহী",
+  "divisionEn": "Rajshahi",
+  "lat": 24.45,
+  "lon": 89.7,
+  "hazards": [
+   "flood",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "khulna",
+  "nameBn": "খুলনা",
+  "nameEn": "Khulna",
+  "divisionBn": "খুলনা",
+  "divisionEn": "Khulna",
+  "lat": 22.82,
+  "lon": 89.55,
+  "hazards": [
+   "salinity",
+   "cyclone"
+  ]
+ },
+ {
+  "id": "bagerhat",
+  "nameBn": "বাগেরহাট",
+  "nameEn": "Bagerhat",
+  "divisionBn": "খুলনা",
+  "divisionEn": "Khulna",
+  "lat": 22.66,
+  "lon": 89.79,
+  "hazards": [
+   "salinity",
+   "cyclone"
+  ]
+ },
+ {
+  "id": "satkhira",
+  "nameBn": "সাতক্ষীরা",
+  "nameEn": "Satkhira",
+  "divisionBn": "খুলনা",
+  "divisionEn": "Khulna",
+  "lat": 22.72,
+  "lon": 89.07,
+  "hazards": [
+   "salinity",
+   "cyclone"
+  ]
+ },
+ {
+  "id": "jashore",
+  "nameBn": "যশোর",
+  "nameEn": "Jashore",
+  "divisionBn": "খুলনা",
+  "divisionEn": "Khulna",
+  "lat": 23.17,
+  "lon": 89.21,
+  "hazards": []
+ },
+ {
+  "id": "jhenaidah",
+  "nameBn": "ঝিনাইদহ",
+  "nameEn": "Jhenaidah",
+  "divisionBn": "খুলনা",
+  "divisionEn": "Khulna",
+  "lat": 23.54,
+  "lon": 89.15,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "magura",
+  "nameBn": "মাগুরা",
+  "nameEn": "Magura",
+  "divisionBn": "খুলনা",
+  "divisionEn": "Khulna",
+  "lat": 23.49,
+  "lon": 89.42,
+  "hazards": []
+ },
+ {
+  "id": "narail",
+  "nameBn": "নড়াইল",
+  "nameEn": "Narail",
+  "divisionBn": "খুলনা",
+  "divisionEn": "Khulna",
+  "lat": 23.17,
+  "lon": 89.5,
+  "hazards": []
+ },
+ {
+  "id": "kushtia",
+  "nameBn": "কুষ্টিয়া",
+  "nameEn": "Kushtia",
+  "divisionBn": "খুলনা",
+  "divisionEn": "Khulna",
+  "lat": 23.9,
+  "lon": 89.12,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "chuadanga",
+  "nameBn": "চুয়াডাঙ্গা",
+  "nameEn": "Chuadanga",
+  "divisionBn": "খুলনা",
+  "divisionEn": "Khulna",
+  "lat": 23.64,
+  "lon": 88.84,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "meherpur",
+  "nameBn": "মেহেরপুর",
+  "nameEn": "Meherpur",
+  "divisionBn": "খুলনা",
+  "divisionEn": "Khulna",
+  "lat": 23.76,
+  "lon": 88.63,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "barishal",
+  "nameBn": "বরিশাল",
+  "nameEn": "Barishal",
+  "divisionBn": "বরিশাল",
+  "divisionEn": "Barishal",
+  "lat": 22.7,
+  "lon": 90.37,
+  "hazards": [
+   "flood"
+  ]
+ },
+ {
+  "id": "bhola",
+  "nameBn": "ভোলা",
+  "nameEn": "Bhola",
+  "divisionBn": "বরিশাল",
+  "divisionEn": "Barishal",
+  "lat": 22.69,
+  "lon": 90.65,
+  "hazards": [
+   "cyclone",
+   "salinity",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "patuakhali",
+  "nameBn": "পটুয়াখালী",
+  "nameEn": "Patuakhali",
+  "divisionBn": "বরিশাল",
+  "divisionEn": "Barishal",
+  "lat": 22.36,
+  "lon": 90.33,
+  "hazards": [
+   "cyclone",
+   "salinity"
+  ]
+ },
+ {
+  "id": "barguna",
+  "nameBn": "বরগুনা",
+  "nameEn": "Barguna",
+  "divisionBn": "বরিশাল",
+  "divisionEn": "Barishal",
+  "lat": 22.15,
+  "lon": 90.12,
+  "hazards": [
+   "cyclone",
+   "salinity"
+  ]
+ },
+ {
+  "id": "pirojpur",
+  "nameBn": "পিরোজপুর",
+  "nameEn": "Pirojpur",
+  "divisionBn": "বরিশাল",
+  "divisionEn": "Barishal",
+  "lat": 22.58,
+  "lon": 89.97,
+  "hazards": [
+   "cyclone",
+   "salinity"
+  ]
+ },
+ {
+  "id": "jhalokathi",
+  "nameBn": "ঝালকাঠি",
+  "nameEn": "Jhalokathi",
+  "divisionBn": "বরিশাল",
+  "divisionEn": "Barishal",
+  "lat": 22.64,
+  "lon": 90.2,
+  "hazards": [
+   "flood"
+  ]
+ },
+ {
+  "id": "sylhet",
+  "nameBn": "সিলেট",
+  "nameEn": "Sylhet",
+  "divisionBn": "সিলেট",
+  "divisionEn": "Sylhet",
+  "lat": 24.89,
+  "lon": 91.87,
+  "hazards": [
+   "flash-flood"
+  ]
+ },
+ {
+  "id": "moulvibazar",
+  "nameBn": "মৌলভীবাজার",
+  "nameEn": "Moulvibazar",
+  "divisionBn": "সিলেট",
+  "divisionEn": "Sylhet",
+  "lat": 24.48,
+  "lon": 91.78,
+  "hazards": [
+   "flash-flood"
+  ]
+ },
+ {
+  "id": "habiganj",
+  "nameBn": "হবিগঞ্জ",
+  "nameEn": "Habiganj",
+  "divisionBn": "সিলেট",
+  "divisionEn": "Sylhet",
+  "lat": 24.37,
+  "lon": 91.42,
+  "hazards": [
+   "flash-flood"
+  ]
+ },
+ {
+  "id": "sunamganj",
+  "nameBn": "সুনামগঞ্জ",
+  "nameEn": "Sunamganj",
+  "divisionBn": "সিলেট",
+  "divisionEn": "Sylhet",
+  "lat": 25.07,
+  "lon": 91.4,
+  "hazards": [
+   "flash-flood"
+  ]
+ },
+ {
+  "id": "rangpur",
+  "nameBn": "রংপুর",
+  "nameEn": "Rangpur",
+  "divisionBn": "রংপুর",
+  "divisionEn": "Rangpur",
+  "lat": 25.75,
+  "lon": 89.25,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "dinajpur",
+  "nameBn": "দিনাজপুর",
+  "nameEn": "Dinajpur",
+  "divisionBn": "রংপুর",
+  "divisionEn": "Rangpur",
+  "lat": 25.63,
+  "lon": 88.64,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "thakurgaon",
+  "nameBn": "ঠাকুরগাঁও",
+  "nameEn": "Thakurgaon",
+  "divisionBn": "রংপুর",
+  "divisionEn": "Rangpur",
+  "lat": 26.03,
+  "lon": 88.47,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "panchagarh",
+  "nameBn": "পঞ্চগড়",
+  "nameEn": "Panchagarh",
+  "divisionBn": "রংপুর",
+  "divisionEn": "Rangpur",
+  "lat": 26.34,
+  "lon": 88.55,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "nilphamari",
+  "nameBn": "নীলফামারী",
+  "nameEn": "Nilphamari",
+  "divisionBn": "রংপুর",
+  "divisionEn": "Rangpur",
+  "lat": 25.93,
+  "lon": 88.86,
+  "hazards": [
+   "drought"
+  ]
+ },
+ {
+  "id": "lalmonirhat",
+  "nameBn": "লালমনিরহাট",
+  "nameEn": "Lalmonirhat",
+  "divisionBn": "রংপুর",
+  "divisionEn": "Rangpur",
+  "lat": 25.92,
+  "lon": 89.45,
+  "hazards": [
+   "flood",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "kurigram",
+  "nameBn": "কুড়িগ্রাম",
+  "nameEn": "Kurigram",
+  "divisionBn": "রংপুর",
+  "divisionEn": "Rangpur",
+  "lat": 25.81,
+  "lon": 89.64,
+  "hazards": [
+   "flood",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "gaibandha",
+  "nameBn": "গাইবান্ধা",
+  "nameEn": "Gaibandha",
+  "divisionBn": "রংপুর",
+  "divisionEn": "Rangpur",
+  "lat": 25.33,
+  "lon": 89.53,
+  "hazards": [
+   "flood",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "mymensingh",
+  "nameBn": "ময়মনসিংহ",
+  "nameEn": "Mymensingh",
+  "divisionBn": "ময়মনসিংহ",
+  "divisionEn": "Mymensingh",
+  "lat": 24.75,
+  "lon": 90.41,
+  "hazards": []
+ },
+ {
+  "id": "jamalpur",
+  "nameBn": "জামালপুর",
+  "nameEn": "Jamalpur",
+  "divisionBn": "ময়মনসিংহ",
+  "divisionEn": "Mymensingh",
+  "lat": 24.92,
+  "lon": 89.95,
+  "hazards": [
+   "flood",
+   "river-erosion"
+  ]
+ },
+ {
+  "id": "sherpur",
+  "nameBn": "শেরপুর",
+  "nameEn": "Sherpur",
+  "divisionBn": "ময়মনসিংহ",
+  "divisionEn": "Mymensingh",
+  "lat": 25.02,
+  "lon": 90.02,
+  "hazards": [
+   "flash-flood"
+  ]
+ },
+ {
+  "id": "netrokona",
+  "nameBn": "নেত্রকোনা",
+  "nameEn": "Netrokona",
+  "divisionBn": "ময়মনসিংহ",
+  "divisionEn": "Mymensingh",
+  "lat": 24.88,
+  "lon": 90.73,
+  "hazards": [
+   "flash-flood"
+  ]
+ }
+]

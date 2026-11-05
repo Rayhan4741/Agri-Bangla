@@ -1,0 +1,698 @@
+[
+ {
+  "id": "faq-rice-yellow",
+  "questionBn": "আমার ধানের পাতা হলুদ হচ্ছে কেন?",
+  "answerBn": "ধানের পাতা হলুদ হওয়ার কয়েকটি সাধারণ কারণ আছে—নাইট্রোজেনের ঘাটতি, দস্তার অভাব (খৈরা), ব্যাকটেরিয়াজনিত পাতা পোড়া, টুংরো ভাইরাস, অথবা শীত বা জলাবদ্ধতার চাপ। কোন অংশ থেকে হলুদ শুরু হয়েছে তা দেখলে কারণ বোঝা সহজ হয়।",
+  "category": "disease",
+  "keywords": [
+   "ধান",
+   "পাতা",
+   "হলুদ",
+   "হলদে",
+   "rice",
+   "yellow"
+  ],
+  "relatedIds": [
+   "nitrogen-deficiency",
+   "zinc-deficiency-khaira",
+   "bacterial-leaf-blight",
+   "rice-tungro"
+  ],
+  "followUpsBn": [
+   "পাতার রং চার্ট (এলসিসি) কী?",
+   "ধানের পাতা পোড়া রোগ চেনার উপায়?",
+   "খৈরা রোগ কী?"
+  ],
+  "verifyWithIds": [
+   "brri",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative",
+  "stepsBn": [
+   "পুরো খেত সমানভাবে হালকা হলুদ ও নিচের পাতা আগে হলুদ হলে → সম্ভবত নাইট্রোজেনের ঘাটতি",
+   "পাতার আগা ও কিনারা থেকে হলদে-সাদা হয়ে শুকালে → পাতা পোড়া রোগ হতে পারে",
+   "রোপণের কয়েক সপ্তাহ পর মরিচার মতো বাদামি ছোপ ও গাছ খাটো হলে → দস্তার অভাব হতে পারে",
+   "খেতে গোল গোল ছোপে কমলা-হলুদ ও খাটো গাছ হলে → টুংরো হতে পারে",
+   "নিশ্চিত হতে কয়েকটি গাছের ছবি তুলে উপসহকারী কৃষি কর্মকর্তাকে দেখান"
+  ],
+  "needsExpert": true
+ },
+ {
+  "id": "faq-tomato-spots",
+  "questionBn": "টমেটোর পাতায় দাগ পড়েছে।",
+  "answerBn": "টমেটোর পাতায় দাগের প্রধান দুটি কারণ আগাম ধসা ও নাবি ধসা। আগাম ধসায় নিচের পাতায় চাকতির মতো বলয়যুক্ত বাদামি দাগ হয়। নাবি ধসায় পানিভেজা দাগ দ্রুত কালো হয়ে পচে যায়, বিশেষ করে কুয়াশা ও ঠান্ডা আর্দ্র আবহাওয়ায়।",
+  "category": "disease",
+  "keywords": [
+   "টমেটো",
+   "পাতা",
+   "দাগ",
+   "tomato",
+   "spot",
+   "ধসা"
+  ],
+  "relatedIds": [
+   "tomato-early-blight",
+   "potato-late-blight"
+  ],
+  "followUpsBn": [
+   "নাবি ধসা কীভাবে ঠেকাবো?",
+   "টমেটোর পাতা কোঁকড়ানো কেন?"
+  ],
+  "verifyWithIds": [
+   "bari",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative",
+  "stepsBn": [
+   "দাগে চাকতির মতো বলয় আছে কিনা দেখুন",
+   "কুয়াশার পর দ্রুত ছড়াচ্ছে কিনা লক্ষ করুন—হলে জরুরি ব্যবস্থা দরকার",
+   "আক্রান্ত পাতা তুলে খেত থেকে দূরে নষ্ট করুন",
+   "সন্ধ্যায় সেচ দেবেন না",
+   "কৃষি কর্মকর্তার পরামর্শ নিন"
+  ],
+  "needsExpert": true
+ },
+ {
+  "id": "faq-fertilizer-bigha",
+  "questionBn": "এক বিঘা জমিতে কী পরিমাণ সার প্রয়োজন?",
+  "answerBn": "সারের সঠিক পরিমাণ ফসল, জাত, মৌসুম ও আপনার জমির মাটির উর্বরতার ওপর নির্ভর করে—তাই একটি নির্দিষ্ট সংখ্যা সবার জন্য ঠিক নয়, আর কৃষিবাংলা নিজে থেকে কোনো মাত্রা সুপারিশ করে না। মাটি পরীক্ষা করে উপজেলা কৃষি অফিস বা বিএআরসি-র সার সুপারিশ নির্দেশিকা থেকে প্রতি হেক্টর বা প্রতি শতাংশের মাত্রা জেনে নিন। তারপর আমাদের হিসাব পাতায় সেই মাত্রা ও আপনার বিঘার মাপ বসালে মোট কত কেজি সার লাগবে তা বের করে দেবে।",
+  "category": "fertilizer",
+  "keywords": [
+   "সার",
+   "বিঘা",
+   "কত",
+   "পরিমাণ",
+   "fertilizer",
+   "ইউরিয়া",
+   "টিএসপি",
+   "পটাশ"
+  ],
+  "relatedIds": [
+   "fg-balanced",
+   "fg-soil-test"
+  ],
+  "followUpsBn": [
+   "মাটি পরীক্ষা কীভাবে করব?",
+   "ইউরিয়া কখন দেব?"
+  ],
+  "verifyWithIds": [
+   "barc",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative",
+  "stepsBn": [
+   "আপনার এলাকায় ১ বিঘা কত শতাংশ তা জেনে নিন (অনেক এলাকায় ৩৩ শতাংশ)",
+   "মাটি পরীক্ষা করুন বা উপজেলা কৃষি অফিসে যান",
+   "সুপারিশকৃত মাত্রা হিসাব পাতায় বসান"
+  ]
+ },
+ {
+  "id": "faq-cow-not-eating",
+  "questionBn": "গরু খাবার খাচ্ছে না, কী করব?",
+  "answerBn": "গরুর খাবার না খাওয়া অনেক কারণে হতে পারে—জ্বর, পেট ফাঁপা, বদহজম, মুখে বা ক্ষুরে ঘা (ক্ষুরা রোগ), কৃমি বা হঠাৎ খাবার পরিবর্তন। কিছু কারণ জরুরি, তাই দেরি না করে পর্যবেক্ষণ করুন এবং পশু চিকিৎসকের পরামর্শ নিন।",
+  "category": "livestock",
+  "keywords": [
+   "গরু",
+   "খাবার",
+   "খাচ্ছে না",
+   "cow",
+   "জাবর",
+   "অসুস্থ"
+  ],
+  "relatedIds": [
+   "cattle"
+  ],
+  "followUpsBn": [
+   "গরুর পেট ফাঁপা হলে কী করব?",
+   "ক্ষুরা রোগের লক্ষণ কী?"
+  ],
+  "verifyWithIds": [
+   "dls"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative",
+  "stepsBn": [
+   "গরু জাবর কাটছে কিনা দেখুন",
+   "বাম পাশে পেট অস্বাভাবিক ফুলে আছে কিনা দেখুন—থাকলে এটি জরুরি",
+   "মুখে লালা, ঘা বা ক্ষুরে ক্ষত আছে কিনা দেখুন",
+   "শরীর গরম (জ্বর) কিনা লক্ষ করুন",
+   "পরিষ্কার পানি ও নরম কাঁচা ঘাস দিন; জোর করে খাওয়াবেন না",
+   "দ্রুত উপজেলা প্রাণিসম্পদ অফিস বা রেজিস্টার্ড পশু চিকিৎসকের সাথে যোগাযোগ করুন"
+  ],
+  "needsExpert": true
+ },
+ {
+  "id": "faq-fish-surface",
+  "questionBn": "পুকুরের মাছ পানির ওপরে উঠে আসছে কেন?",
+  "answerBn": "ভোরবেলা মাছ পানির ওপরে ভেসে খাবি খেলে সাধারণত পানিতে অক্সিজেনের ঘাটতি বোঝায়। মেঘলা-গুমোট আবহাওয়া, অতিরিক্ত খাবার বা সার, অতিরিক্ত মাছ এবং গাঢ় সবুজ পানি এর প্রধান কারণ।",
+  "category": "fisheries",
+  "keywords": [
+   "মাছ",
+   "পুকুর",
+   "ওপরে",
+   "ভেসে",
+   "খাবি",
+   "অক্সিজেন",
+   "fish"
+  ],
+  "relatedIds": [
+   "fish-water-quality"
+  ],
+  "followUpsBn": [
+   "মাছকে কতটুকু খাবার দেব?",
+   "পুকুরের পানি সবুজ হয়ে গেছে কেন?"
+  ],
+  "verifyWithIds": [
+   "dof"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative",
+  "stepsBn": [
+   "সাথে সাথে খাবার ও সার দেওয়া বন্ধ করুন",
+   "বাঁশ দিয়ে পানি পিটিয়ে বা সাঁতার কেটে বাতাস মেশান",
+   "সম্ভব হলে পাম্প দিয়ে পরিষ্কার নতুন পানি দিন বা এয়ারেটর চালান",
+   "মরা মাছ দ্রুত সরিয়ে ফেলুন",
+   "সমস্যা চলতে থাকলে উপজেলা মৎস্য কর্মকর্তার সাথে যোগাযোগ করুন"
+  ],
+  "needsExpert": true
+ },
+ {
+  "id": "faq-white-panicle",
+  "questionBn": "ধানের শীষ সাদা হয়ে যাচ্ছে কেন?",
+  "answerBn": "ধানের সাদা, চিটা শীষের দুটি প্রধান কারণ—মাজরা পোকা ও নেক ব্লাস্ট। মাজরা পোকার ক্ষেত্রে সাদা শীষ টানলে সহজে উঠে আসে। নেক ব্লাস্টে শীষের গোড়া কালো হয়ে ভেঙে যায়।",
+  "category": "disease",
+  "keywords": [
+   "শীষ",
+   "সাদা",
+   "চিটা",
+   "ধান"
+  ],
+  "relatedIds": [
+   "rice-stem-borer",
+   "rice-blast"
+  ],
+  "followUpsBn": [
+   "মাজরা পোকা দমনের উপায়?"
+  ],
+  "verifyWithIds": [
+   "brri",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative",
+  "needsExpert": true
+ },
+ {
+  "id": "faq-brinjal-borer",
+  "questionBn": "বেগুনের ডগা নুয়ে পড়ছে, ফলে ছিদ্র।",
+  "answerBn": "এটি সম্ভবত ডগা ও ফল ছিদ্রকারী পোকার আক্রমণ। নিয়মিত আক্রান্ত ডগা ও ফল কেটে মাটিতে পুঁতে ফেলা এবং ফেরোমন ফাঁদ ব্যবহার সবচেয়ে কার্যকর ও নিরাপদ শুরু।",
+  "category": "disease",
+  "keywords": [
+   "বেগুন",
+   "ডগা",
+   "ছিদ্র",
+   "পোকা"
+  ],
+  "relatedIds": [
+   "brinjal-fruit-shoot-borer"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "bari",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-chilli-curl",
+  "questionBn": "মরিচের পাতা কুঁকড়ে যাচ্ছে।",
+  "answerBn": "মরিচের পাতা কোঁকড়ানো ভাইরাস অথবা থ্রিপস ও মাকড়ের মতো রস শোষণকারী পোকার কারণে হতে পারে। পাতার নিচে আতশ কাচ দিয়ে দেখুন পোকা আছে কিনা।",
+  "category": "disease",
+  "keywords": [
+   "মরিচ",
+   "কোঁকড়ানো",
+   "কুঁকড়ে",
+   "পাতা"
+  ],
+  "relatedIds": [
+   "chilli-leaf-curl"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "bari",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-gourd-rot",
+  "questionBn": "লাউ/কুমড়ার কচি ফল পচে ঝরে যাচ্ছে।",
+  "answerBn": "এটি প্রায়ই ফলের মাছি পোকার কারণে হয়—স্ত্রী মাছি ফলে ডিম পাড়ে, কীড়া ভেতরে খায়। আক্রান্ত ফল নষ্ট করুন ও ফেরোমন ফাঁদ ব্যবহার করুন। পরাগায়ন না হলেও কচি ফল ঝরে যেতে পারে।",
+  "category": "disease",
+  "keywords": [
+   "লাউ",
+   "কুমড়া",
+   "ফল পচা",
+   "ঝরে",
+   "মাছি"
+  ],
+  "relatedIds": [
+   "cucurbit-fruit-fly"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "bari",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-potato-fog",
+  "questionBn": "কুয়াশায় আলুর পাতা কালো হয়ে যাচ্ছে।",
+  "answerBn": "এটি নাবি ধসা রোগের লক্ষণ হতে পারে, যা কয়েক দিনের মধ্যে পুরো খেতে ছড়াতে পারে। দেরি না করে কৃষি কর্মকর্তার পরামর্শ নিন।",
+  "category": "disease",
+  "keywords": [
+   "আলু",
+   "কুয়াশা",
+   "কালো",
+   "ধসা"
+  ],
+  "relatedIds": [
+   "potato-late-blight"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "bari",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative",
+  "needsExpert": true
+ },
+ {
+  "id": "faq-mustard-aphid",
+  "questionBn": "সরিষায় ছোট ছোট পোকা জমেছে।",
+  "answerBn": "এগুলো সম্ভবত জাব পোকা। মেঘলা-কুয়াশাচ্ছন্ন আবহাওয়ায় বাড়ে। উপকারী পোকা ও মৌমাছি রক্ষা করে ব্যবস্থা নিন।",
+  "category": "disease",
+  "keywords": [
+   "সরিষা",
+   "জাব",
+   "পোকা"
+  ],
+  "relatedIds": [
+   "mustard-aphid"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "bari",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-awd",
+  "questionBn": "এডব্লিউডি (AWD) পদ্ধতি কী?",
+  "answerBn": "বোরো ধানে সবসময় পানি ধরে না রেখে, ছিদ্রযুক্ত পাইপে মাটির নিচের পানির স্তর দেখে সেচ দেওয়ার পদ্ধতি। এতে পানি ও সেচ খরচ সাশ্রয় হয়।",
+  "category": "crop",
+  "keywords": [
+   "এডব্লিউডি",
+   "awd",
+   "সেচ",
+   "পাইপ"
+  ],
+  "relatedIds": [
+   "ig-awd"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "brri",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-soil-test",
+  "questionBn": "মাটি পরীক্ষা কীভাবে করব?",
+  "answerBn": "জমির কয়েক জায়গা থেকে মাটি তুলে মিশিয়ে একটি নমুনা করুন, ছায়ায় শুকিয়ে উপজেলা কৃষি অফিসে মাটি পরীক্ষার সুবিধা সম্পর্কে জানুন।",
+  "category": "fertilizer",
+  "keywords": [
+   "মাটি পরীক্ষা",
+   "নমুনা",
+   "soil"
+  ],
+  "relatedIds": [
+   "fg-soil-test"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-compost",
+  "questionBn": "কম্পোস্ট সার কীভাবে বানাব?",
+  "answerBn": "ছায়াযুক্ত গর্তে গোবর, খড়, আগাছা ও রান্নাঘরের উচ্ছিষ্ট স্তরে স্তরে রাখুন, আর্দ্রতা রাখুন ও মাঝে মাঝে উল্টে দিন। কয়েক সপ্তাহ থেকে কয়েক মাসে ঝুরঝুরে কালচে সার তৈরি হয়।",
+  "category": "fertilizer",
+  "keywords": [
+   "কম্পোস্ট",
+   "জৈব সার",
+   "বানাব"
+  ],
+  "relatedIds": [
+   "fg-organic"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-boro-cold",
+  "questionBn": "শীতে বোরোর বীজতলার চারা হলুদ হয়ে যাচ্ছে।",
+  "answerBn": "তীব্র শীতে চারা হলুদ হয়ে মারা যেতে পারে। রাতে স্বচ্ছ পলিথিনে বীজতলা ঢেকে রাখুন, সকালে রোদ উঠলে খুলে দিন এবং বীজতলায় পানি ধরে রাখুন।",
+  "category": "crop",
+  "keywords": [
+   "বোরো",
+   "বীজতলা",
+   "শীত",
+   "চারা হলুদ"
+  ],
+  "relatedIds": [
+   "wg-cold",
+   "boro-rice"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "brri",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-after-flood",
+  "questionBn": "বন্যার পর কী চাষ করব?",
+  "answerBn": "পানি নামার সময় ও জমির অবস্থার ওপর নির্ভর করে নাবি আমন জাত, বা সরাসরি রবি ফসল (যেমন সরিষা, সবজি, ডাল) বিবেচনা করা যায়। নিজের এলাকার জন্য উপজেলা কৃষি অফিসের পরামর্শ নিন।",
+  "category": "weather",
+  "keywords": [
+   "বন্যা",
+   "বন্যার পর",
+   "কী চাষ"
+  ],
+  "relatedIds": [
+   "wg-flood"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-chicken-sick",
+  "questionBn": "মুরগি ঝিমাচ্ছে, খাচ্ছে না।",
+  "answerBn": "ঝিমানো ও খাবার না খাওয়া অনেক রোগের প্রাথমিক লক্ষণ। অসুস্থ মুরগি দ্রুত আলাদা করুন, পায়খানার রং ও শ্বাস দেখুন এবং প্রাণিসম্পদ অফিসের পরামর্শ নিন। হঠাৎ অনেক মুরগি মারা গেলে অবিলম্বে জানান।",
+  "category": "poultry",
+  "keywords": [
+   "মুরগি",
+   "ঝিমানো",
+   "খাচ্ছে না",
+   "chicken"
+  ],
+  "relatedIds": [
+   "chicken"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dls"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative",
+  "needsExpert": true
+ },
+ {
+  "id": "faq-goat-diarrhea",
+  "questionBn": "ছাগলের পাতলা পায়খানা হচ্ছে।",
+  "answerBn": "পিপিআর, কৃমি বা খাবারের সমস্যায় পাতলা পায়খানা হতে পারে। সাথে জ্বর, নাক-চোখ দিয়ে পানি থাকলে পিপিআর সন্দেহ করুন। ছাগলকে আলাদা রেখে পরিষ্কার পানি দিন এবং দ্রুত পশু চিকিৎসকের সাথে যোগাযোগ করুন।",
+  "category": "livestock",
+  "keywords": [
+   "ছাগল",
+   "পাতলা পায়খানা",
+   "পিপিআর",
+   "goat"
+  ],
+  "relatedIds": [
+   "goat"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dls"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative",
+  "needsExpert": true
+ },
+ {
+  "id": "faq-duck-vaccine",
+  "questionBn": "হাঁসের কোন টিকা দিতে হয়?",
+  "answerBn": "হাঁসের জন্য সাধারণত ডাক প্লেগ ও ডাক কলেরার টিকার কথা বলা হয়। সঠিক সময়সূচি ও টিকার প্রাপ্যতা উপজেলা প্রাণিসম্পদ অফিস থেকে জেনে নিন।",
+  "category": "poultry",
+  "keywords": [
+   "হাঁস",
+   "টিকা",
+   "duck"
+  ],
+  "relatedIds": [
+   "duck"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dls"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-pond-lime",
+  "questionBn": "পুকুরে কতটুকু চুন দেব?",
+  "answerBn": "চুনের পরিমাণ পুকুরের মাটি ও পানির অবস্থা (পিএইচ) এবং চাষ পদ্ধতির ওপর নির্ভর করে। কৃষিবাংলা নির্দিষ্ট মাত্রা সুপারিশ করে না—উপজেলা মৎস্য অফিসের পরামর্শ নিন।",
+  "category": "fisheries",
+  "keywords": [
+   "চুন",
+   "পুকুর",
+   "কত"
+  ],
+  "relatedIds": [
+   "fish-pond-prep"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dof"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-fish-feed",
+  "questionBn": "মাছকে কতটুকু খাবার দেব?",
+  "answerBn": "সাধারণত পুকুরে থাকা মাছের মোট আনুমানিক ওজনের একটি নির্দিষ্ট শতাংশ হারে খাবার দেওয়া হয়, যা মাছের আকার ও তাপমাত্রা অনুযায়ী বদলায়। নিয়মিত নমুনা ধরে ওজন দেখুন এবং হার মৎস্য অফিস থেকে জেনে নিন।",
+  "category": "fisheries",
+  "keywords": [
+   "মাছের খাবার",
+   "কতটুকু",
+   "খাদ্য"
+  ],
+  "relatedIds": [
+   "fish-feeding"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dof"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-market-price",
+  "questionBn": "আজকের বাজারদর কোথায় পাব?",
+  "answerBn": "কৃষিবাংলায় শুধু নমুনা বাজারদর আছে—এগুলো বর্তমান দর নয়। সরকারি বাজারদরের জন্য কৃষি বিপণন অধিদপ্তরের প্রকাশনা দেখুন এবং স্থানীয় একাধিক আড়তে যাচাই করুন।",
+  "category": "market",
+  "keywords": [
+   "বাজারদর",
+   "দাম",
+   "দর",
+   "price",
+   "market"
+  ],
+  "relatedIds": [],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dam"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-weather-warning",
+  "questionBn": "আবহাওয়ার সতর্কবার্তা কোথায় পাব?",
+  "answerBn": "বাংলাদেশ আবহাওয়া অধিদপ্তর সরকারি পূর্বাভাস ও সতর্কবার্তা প্রকাশ করে। দুর্যোগে সবসময় তাদের ও স্থানীয় প্রশাসনের নির্দেশনা মানুন। কৃষিবাংলার লাইভ আবহাওয়া একটি ঐচ্ছিক সুবিধা (Open-Meteo) যা সরকারি সতর্কবার্তার বিকল্প নয়।",
+  "category": "weather",
+  "keywords": [
+   "আবহাওয়া",
+   "সতর্কবার্তা",
+   "পূর্বাভাস",
+   "weather"
+  ],
+  "relatedIds": [],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "bmd"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-cost-calc",
+  "questionBn": "উৎপাদন খরচ ও লাভ কীভাবে হিসাব করব?",
+  "answerBn": "জমি চাষ, বীজ, সার, সেচ, বালাইনাশক, শ্রমিক, পরিবহন ও জমির ভাড়া—সব খরচ যোগ করুন। মোট ফলনকে বিক্রয় দামের সাথে গুণ করে আয় বের করুন। আয় থেকে খরচ বাদ দিলে মোট লাভ। হিসাব পাতায় এটি সহজে করা যায়।",
+  "category": "general",
+  "keywords": [
+   "খরচ",
+   "লাভ",
+   "হিসাব",
+   "আয়"
+  ],
+  "relatedIds": [],
+  "followUpsBn": [
+   "উৎপাদন খরচ ক্যালকুলেটর কোথায়?"
+  ],
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-subsidy",
+  "questionBn": "সরকারি কৃষি সহায়তা বা প্রণোদনা কীভাবে পাব?",
+  "answerBn": "সরকারি সহায়তা ও প্রণোদনার ধরন, যোগ্যতা ও সময়সূচি বছরভেদে পরিবর্তন হয়। কৃষিবাংলা কোনো চলমান কর্মসূচির তথ্য দেয় না। সর্বশেষ তথ্যের জন্য উপজেলা কৃষি অফিস বা কৃষি সম্প্রসারণ অধিদপ্তরের সাথে যোগাযোগ করুন।",
+  "category": "general",
+  "keywords": [
+   "প্রণোদনা",
+   "ভর্তুকি",
+   "সহায়তা",
+   "ঋণ",
+   "subsidy"
+  ],
+  "relatedIds": [],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dae",
+   "moa"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-spray-time",
+  "questionBn": "কখন স্প্রে করা ভালো?",
+  "answerBn": "সাধারণভাবে বাতাস কম, পরের কয়েক ঘণ্টা বৃষ্টির সম্ভাবনা নেই এবং ফুলে মৌমাছি কম এমন সময়—সকাল বা বিকেল—স্প্রে করা ভালো। পণ্যের লেবেলের নির্দেশনা ও নিরাপত্তা সরঞ্জাম মেনে চলুন। লাইভ আবহাওয়া চালু থাকলে আবহাওয়া পাতায় সম্ভাব্য স্প্রে-সময় দেখা যায়।",
+  "category": "general",
+  "keywords": [
+   "স্প্রে",
+   "কখন",
+   "বালাইনাশক",
+   "spray"
+  ],
+  "relatedIds": [
+   "fg-safety"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-good-seed",
+  "questionBn": "ভালো বীজ কীভাবে চিনব?",
+  "answerBn": "অনুমোদিত ডিলার বা সরকারি উৎস থেকে প্যাকেটজাত বীজ কিনুন, প্যাকেটে জাতের নাম, উৎপাদন ও মেয়াদের তারিখ দেখুন এবং রসিদ নিন। বপনের আগে অল্প বীজে অঙ্কুরোদগম পরীক্ষা করে নিন।",
+  "category": "crop",
+  "keywords": [
+   "বীজ",
+   "ভালো বীজ",
+   "অঙ্কুরোদগম",
+   "seed"
+  ],
+  "relatedIds": [],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "faq-maize-armyworm",
+  "questionBn": "ভুট্টার পাতায় ছিদ্র ও গুঁড়ার মতো বিষ্ঠা।",
+  "answerBn": "এটি ফল আর্মিওয়ার্মের লক্ষণ হতে পারে। খেত নিয়মিত পর্যবেক্ষণ করুন, ডিমের গাদা ও কীড়া হাতে সংগ্রহ করুন এবং কৃষি অফিসে জানান।",
+  "category": "disease",
+  "keywords": [
+   "ভুট্টা",
+   "ছিদ্র",
+   "আর্মিওয়ার্ম"
+  ],
+  "relatedIds": [
+   "fall-armyworm"
+  ],
+  "followUpsBn": [],
+  "verifyWithIds": [
+   "bari",
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ }
+]

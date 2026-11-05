@@ -1,0 +1,28 @@
+# Render.com blueprint (free web service). Use a free MongoDB Atlas M0 cluster for MONGODB_URI.
+services:
+  - type: web
+    name: agribangla
+    runtime: node
+    plan: free
+    buildCommand: npm --prefix client ci && npm --prefix server ci && npm --prefix client run build && npm --prefix server run build
+    startCommand: node server/dist/index.js
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NODE_VERSION
+        value: "22"
+      - key: MONGOMS_DISABLE_POSTINSTALL
+        value: "1"
+      - key: MONGODB_URI
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-3.5-flash
+      - key: GEMINI_FALLBACK_MODEL
+        value: gemini-3.5-flash-lite
+      - key: TCB_AUTOFETCH
+        value: "false"

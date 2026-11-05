@@ -1,0 +1,129 @@
+[
+ {
+  "id": "adv-1",
+  "titleBn": "আমনের থোড় অবস্থায় পানি ধরে রাখুন",
+  "bodyBn": "এই সময় পানির ঘাটতি হলে চিটা বাড়ে। বৃষ্টি কম হলে সম্পূরক সেচের ব্যবস্থা রাখুন।",
+  "cropIds": [
+   "aman-rice"
+  ],
+  "seasonId": "kharif-2",
+  "type": "crop",
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "adv-2",
+  "titleBn": "কুয়াশায় আলু খেত প্রতিদিন দেখুন",
+  "bodyBn": "টানা কুয়াশা ও মেঘলা আবহাওয়ায় নাবি ধসা দ্রুত ছড়াতে পারে।",
+  "cropIds": [
+   "potato",
+   "tomato"
+  ],
+  "seasonId": "rabi",
+  "type": "weather",
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "adv-3",
+  "titleBn": "বোরো বীজতলা শীত থেকে রক্ষা করুন",
+  "bodyBn": "রাতে স্বচ্ছ পলিথিন দিয়ে ঢেকে রাখুন, সকালে খুলে দিন।",
+  "cropIds": [
+   "boro-rice"
+  ],
+  "seasonId": "rabi",
+  "type": "crop",
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "adv-4",
+  "titleBn": "হাওরে পাকা বোরো দ্রুত কাটুন",
+  "bodyBn": "আগাম ঢলের ঝুঁকি থাকলে ৮০% পাকলেই কাটার ব্যবস্থা করুন।",
+  "cropIds": [
+   "boro-rice"
+  ],
+  "seasonId": "kharif-1",
+  "type": "weather",
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "adv-5",
+  "titleBn": "বর্ষার আগে পুকুরের পাড় উঁচু করুন",
+  "bodyBn": "পাড় ভেঙে মাছ বেরিয়ে যাওয়া ঠেকাতে আগেই মেরামত করুন ও জাল দিয়ে ঘিরে রাখুন।",
+  "cropIds": [],
+  "seasonId": "kharif-1",
+  "type": "fisheries",
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "adv-6",
+  "titleBn": "বর্ষায় ছাগলের ঘর শুকনো রাখুন",
+  "bodyBn": "স্যাঁতসেঁতে ঘরে ছাগলের নিউমোনিয়া ও অন্যান্য রোগ বাড়ে। মাচার ঘর ব্যবহার করুন।",
+  "cropIds": [],
+  "seasonId": "kharif-2",
+  "type": "livestock",
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "adv-7",
+  "titleBn": "সরিষা ফুলে মৌমাছি রক্ষা করুন",
+  "bodyBn": "ফুল ফোটার সময় অপ্রয়োজনে স্প্রে করবেন না; প্রয়োজন হলে বিকেলে পরামর্শ নিয়ে করুন।",
+  "cropIds": [
+   "mustard"
+  ],
+  "seasonId": "rabi",
+  "type": "crop",
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ },
+ {
+  "id": "adv-8",
+  "titleBn": "আমন কাটার পর জমি ফেলে রাখবেন না",
+  "bodyBn": "জমির রস থাকতে থাকতে সরিষা, মসুর বা সবজি চাষ করা যায়।",
+  "cropIds": [
+   "aman-rice",
+   "mustard",
+   "lentil"
+  ],
+  "seasonId": "rabi",
+  "type": "crop",
+  "verifyWithIds": [
+   "dae"
+  ],
+  "sourceIds": [],
+  "lastVerified": null,
+  "dataStatus": "illustrative"
+ }
+]

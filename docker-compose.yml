@@ -1,0 +1,33 @@
+# Local full stack: MongoDB + AgriBangla (API + built client on one port).
+#   cp server/.env.example server/.env   # add GEMINI_API_KEY, JWT_SECRET
+#   docker compose up --build
+#   docker compose exec app node server/dist/scripts/seed.js
+#   docker compose exec app node server/dist/scripts/createAdmin.js
+# then open http://localhost:5000
+services:
+  mongo:
+    image: mongo:7
+    restart: unless-stopped
+    volumes:
+      - mongo-data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      retries: 10
+
+  app:
+    build: .
+    restart: unless-stopped
+    env_file: server/.env
+    environment:
+      NODE_ENV: production
+      MONGODB_URI: mongodb://mongo:27017/agribangla
+      CORS_ORIGINS: ""
+    ports:
+      - "5000:5000"
+    depends_on:
+      mongo:
+        condition: service_healthy
+
+volumes:
+  mongo-data:

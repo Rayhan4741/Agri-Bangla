@@ -1,0 +1,24 @@
+{
+  "name": "agribangla",
+  "version": "2.0.0",
+  "private": true,
+  "description": "AgriBangla (কৃষিবাংলা) — MERN stack agricultural guidance app: React client + Express/MongoDB API with Gemini-powered কৃষকবন্ধু AI and TCB market prices.",
+  "scripts": {
+    "install:all": "npm install && npm --prefix server install && npm --prefix client install",
+    "dev": "concurrently -k -n api,web -c green,yellow \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "build": "npm --prefix client run build && npm --prefix server run build",
+    "start": "npm --prefix server start",
+    "seed": "npm --prefix server run seed",
+    "create-admin": "npm --prefix server run create-admin",
+    "test": "npm --prefix server test && npm --prefix client test",
+    "typecheck": "npm --prefix server run typecheck && npm --prefix client run typecheck",
+    "lint": "npm --prefix client run lint"
+  },
+  "devDependencies": {
+    "babel-plugin-react-compiler": "^1.0.0",
+    "concurrently": "9.2.1"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

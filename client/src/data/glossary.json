@@ -1,0 +1,194 @@
+[
+ {
+  "id": "g1",
+  "termBn": "আইল",
+  "termEn": "Bund",
+  "definitionBn": "জমির চারপাশের মাটির উঁচু বাঁধ, যা পানি ধরে রাখে ও জমির সীমানা চিহ্নিত করে।"
+ },
+ {
+  "id": "g2",
+  "termBn": "বীজতলা",
+  "termEn": "Seedbed",
+  "definitionBn": "চারা উৎপাদনের জন্য বিশেষভাবে প্রস্তুত ছোট জমি।"
+ },
+ {
+  "id": "g3",
+  "termBn": "কুশি",
+  "termEn": "Tiller",
+  "definitionBn": "ধান-গমের গোড়া থেকে বের হওয়া নতুন শাখা।"
+ },
+ {
+  "id": "g4",
+  "termBn": "থোড়",
+  "termEn": "Booting",
+  "definitionBn": "ধানের শীষ খোলের ভেতরে তৈরি হয়ে ফুলে ওঠার পর্যায়।"
+ },
+ {
+  "id": "g5",
+  "termBn": "চিটা",
+  "termEn": "Unfilled grain",
+  "definitionBn": "দানাহীন বা অপুষ্ট ধান।"
+ },
+ {
+  "id": "g6",
+  "termBn": "উপরি-প্রয়োগ",
+  "termEn": "Top dressing",
+  "definitionBn": "ফসল লাগানোর পর দাঁড়ানো ফসলে সার প্রয়োগ।"
+ },
+ {
+  "id": "g7",
+  "termBn": "জৈব সার",
+  "termEn": "Organic manure",
+  "definitionBn": "গোবর, কম্পোস্ট, কেঁচো সার ইত্যাদি প্রাকৃতিক উৎসের সার।"
+ },
+ {
+  "id": "g8",
+  "termBn": "সুষম সার",
+  "termEn": "Balanced fertilization",
+  "definitionBn": "ফসলের প্রয়োজন অনুযায়ী সব পুষ্টি উপাদান সঠিক অনুপাতে দেওয়া।"
+ },
+ {
+  "id": "g9",
+  "termBn": "শস্য পর্যায়",
+  "termEn": "Crop rotation",
+  "definitionBn": "একই জমিতে পর্যায়ক্রমে ভিন্ন ফসল চাষ করা।"
+ },
+ {
+  "id": "g10",
+  "termBn": "সমন্বিত বালাই ব্যবস্থাপনা",
+  "termEn": "IPM",
+  "definitionBn": "যান্ত্রিক, জৈবিক ও প্রয়োজনে রাসায়নিক—সব উপায় মিলিয়ে কম খরচে, নিরাপদে বালাই দমন।"
+ },
+ {
+  "id": "g11",
+  "termBn": "ফেরোমন ফাঁদ",
+  "termEn": "Pheromone trap",
+  "definitionBn": "নির্দিষ্ট পোকাকে গন্ধে আকৃষ্ট করে আটকানোর ফাঁদ।"
+ },
+ {
+  "id": "g12",
+  "termBn": "আলোক ফাঁদ",
+  "termEn": "Light trap",
+  "definitionBn": "রাতে আলো জ্বেলে পোকা ধরা ও পর্যবেক্ষণের ব্যবস্থা।"
+ },
+ {
+  "id": "g13",
+  "termBn": "পার্চিং",
+  "termEn": "Perching",
+  "definitionBn": "খেতে ডাল পুঁতে পোকাখেকো পাখি বসার ব্যবস্থা করা।"
+ },
+ {
+  "id": "g14",
+  "termBn": "মালচিং",
+  "termEn": "Mulching",
+  "definitionBn": "খড় বা পলিথিন দিয়ে মাটির ওপর ঢেকে আর্দ্রতা ধরে রাখা।"
+ },
+ {
+  "id": "g15",
+  "termBn": "এডব্লিউডি",
+  "termEn": "AWD",
+  "definitionBn": "পর্যায়ক্রমে ভেজানো ও শুকানো—পানি সাশ্রয়ী সেচ পদ্ধতি।"
+ },
+ {
+  "id": "g16",
+  "termBn": "জাগ দেওয়া",
+  "termEn": "Retting",
+  "definitionBn": "পাট গাছ পানিতে পচিয়ে আঁশ আলাদা করা।"
+ },
+ {
+  "id": "g17",
+  "termBn": "পিএইচ",
+  "termEn": "pH",
+  "definitionBn": "মাটি বা পানি কতটা অম্লীয় বা ক্ষারীয় তার মাপ।"
+ },
+ {
+  "id": "g18",
+  "termBn": "লবণাক্ততা",
+  "termEn": "Salinity",
+  "definitionBn": "মাটি বা পানিতে লবণের আধিক্য।"
+ },
+ {
+  "id": "g19",
+  "termBn": "অঙ্কুরোদগম হার",
+  "termEn": "Germination rate",
+  "definitionBn": "বোনা বীজের কত শতাংশ থেকে চারা গজায়।"
+ },
+ {
+  "id": "g20",
+  "termBn": "বীজ শোধন",
+  "termEn": "Seed treatment",
+  "definitionBn": "বপনের আগে বীজকে রোগজীবাণুমুক্ত করার প্রক্রিয়া।"
+ },
+ {
+  "id": "g21",
+  "termBn": "হপার বার্ন",
+  "termEn": "Hopper burn",
+  "definitionBn": "গাছফড়িংয়ের আক্রমণে ধানখেতের অংশ পুড়ে যাওয়ার মতো দেখানো।"
+ },
+ {
+  "id": "g22",
+  "termBn": "মরা ডিগ",
+  "termEn": "Dead heart",
+  "definitionBn": "মাজরা পোকার আক্রমণে কুশির মাঝের পাতা শুকিয়ে যাওয়া।"
+ },
+ {
+  "id": "g23",
+  "termBn": "টিকা",
+  "termEn": "Vaccination",
+  "definitionBn": "রোগ প্রতিরোধে পশু-পাখিকে দেওয়া প্রতিষেধক।"
+ },
+ {
+  "id": "g24",
+  "termBn": "কৃমিনাশক",
+  "termEn": "Dewormer",
+  "definitionBn": "পেটের কৃমি দমনের ওষুধ।"
+ },
+ {
+  "id": "g25",
+  "termBn": "জৈব নিরাপত্তা",
+  "termEn": "Biosecurity",
+  "definitionBn": "খামারে রোগজীবাণু প্রবেশ ও ছড়ানো ঠেকানোর ব্যবস্থা।"
+ },
+ {
+  "id": "g26",
+  "termBn": "মিশ্র মাছ চাষ",
+  "termEn": "Polyculture",
+  "definitionBn": "পানির বিভিন্ন স্তরে খায় এমন কয়েক প্রজাতির মাছ একসাথে চাষ।"
+ },
+ {
+  "id": "g27",
+  "termBn": "পোনা মজুদ",
+  "termEn": "Stocking",
+  "definitionBn": "পুকুরে মাছের পোনা ছাড়া।"
+ },
+ {
+  "id": "g28",
+  "termBn": "গ্রস মার্জিন",
+  "termEn": "Gross margin",
+  "definitionBn": "মোট আয় থেকে চলতি উৎপাদন খরচ বাদ দেওয়ার পর থাকা অংশ।"
+ },
+ {
+  "id": "g29",
+  "termBn": "রবি মৌসুম",
+  "termEn": "Rabi season",
+  "definitionBn": "শীতকালীন ফসলের মৌসুম।"
+ },
+ {
+  "id": "g30",
+  "termBn": "খরিফ মৌসুম",
+  "termEn": "Kharif season",
+  "definitionBn": "গ্রীষ্ম (খরিফ-১) ও বর্ষার (খরিফ-২) ফসলের মৌসুম।"
+ },
+ {
+  "id": "g31",
+  "termBn": "সর্জান পদ্ধতি",
+  "termEn": "Sorjan",
+  "definitionBn": "উঁচু বেড ও নালা করে একই জমিতে সবজি ও মাছ/ধান চাষ।"
+ },
+ {
+  "id": "g32",
+  "termBn": "এলসিসি",
+  "termEn": "Leaf Color Chart",
+  "definitionBn": "পাতার রং মিলিয়ে নাইট্রোজেনের প্রয়োজন বোঝার রঙিন চার্ট।"
+ }
+]

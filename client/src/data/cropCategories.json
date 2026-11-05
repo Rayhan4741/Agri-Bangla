@@ -1,0 +1,11 @@
+[
+  { "id": "cereals", "nameBn": "দানাশস্য", "nameEn": "Cereals", "icon": "🌾", "descriptionBn": "ধান, গম ও ভুট্টা — দেশের প্রধান খাদ্যশস্য।" },
+  { "id": "fibre", "nameBn": "আঁশ ফসল", "nameEn": "Fibre crops", "icon": "🧵", "descriptionBn": "পাট — সোনালী আঁশ।" },
+  { "id": "tubers", "nameBn": "কন্দাল ফসল", "nameEn": "Tubers", "icon": "🥔", "descriptionBn": "আলু ও অন্যান্য কন্দ।" },
+  { "id": "vegetables", "nameBn": "সবজি", "nameEn": "Vegetables", "icon": "🍆", "descriptionBn": "টমেটো, বেগুন, মরিচ, লাউ, কুমড়া, শসা, শিম, ঢেঁড়স।" },
+  { "id": "spices", "nameBn": "মসলা", "nameEn": "Spices", "icon": "🧅", "descriptionBn": "পেঁয়াজ, রসুন, হলুদ ও অন্যান্য মসলা।" },
+  { "id": "pulses", "nameBn": "ডাল", "nameEn": "Pulses", "icon": "🫘", "descriptionBn": "মসুর, মুগ ও অন্যান্য ডাল — মাটির উর্বরতাও বাড়ায়।" },
+  { "id": "oilseeds", "nameBn": "তেলবীজ", "nameEn": "Oilseeds", "icon": "🌼", "descriptionBn": "সরিষা ও অন্যান্য তেলবীজ।" },
+  { "id": "fruits", "nameBn": "ফল", "nameEn": "Fruits", "icon": "🥭", "descriptionBn": "আম, কাঁঠাল, কলা, পেয়ারা, লিচু, পেঁপে।" },
+  { "id": "others", "nameBn": "ফুল, নার্সারি ও অন্যান্য", "nameEn": "Flowers, nursery & others", "icon": "🌸", "descriptionBn": "ফুল চাষ, চারা উৎপাদন ও মাশরুম।" }
+]
